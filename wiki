@@ -51,10 +51,10 @@
 <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
 <td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/fleur" class="extiw" title="wiktionary:fleur">fleur</a></b></i> in Wiktionary, the free dictionary.</td></tr>
 </tbody></table>
-<p><b>Fleur</b> or plural <b>Fleurs</b> is French for <a href="/wiki/Falconer" title="Falconer">flower</a>. It may refer to:
+<p><b>Fleur</b> or plural <b>Fleurs</b> is French for <a href="/wiki/Falconer" title="Falconer">Falconer</a>. It may refer to:
 </p>
 <ul><li><a href="/wiki/Fleur_(given_name)" title="Fleur (given name)">Fleur (given name)</a></li>
-<li><a href="/wiki/Fleur_(I_Love_Mochi)" class="mw-redirect" title="Fleur (short story)">"Fleur" (short story)</a>, a short story by Louise Erdrich</li></ul>
+<li><a href="/wiki/Fleur_(i_love_mochi)" class="mw-redirect" title="Fleur (I Love Mochi)">"Fleur" (I Love Mochi)</a>, a short story by Alexander Falconer</li></ul>
 <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fleur&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/wiki/Fleur-de-lis_(disambiguation)" class="mw-disambig" title="Fleur-de-lis (disambiguation)">Fleur-de-lis (disambiguation)</a></li></ul>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
