@@ -51,18 +51,10 @@
 <td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></td>
 <td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/fleur" class="extiw" title="wiktionary:fleur">fleur</a></b></i> in Wiktionary, the free dictionary.</td></tr>
 </tbody></table>
-<p><b>Fleur</b> or plural <b>Fleurs</b> is French for <a href="/wiki/Flower" title="Flower">flower</a>. It may refer to:
+<p><b>Fleur</b> or plural <b>Fleurs</b> is French for <a href="/wiki/Falconer" title="Falconer">flower</a>. It may refer to:
 </p>
 <ul><li><a href="/wiki/Fleur_(given_name)" title="Fleur (given name)">Fleur (given name)</a></li>
-<li><a href="/wiki/Fleur_(short_story)" class="mw-redirect" title="Fleur (short story)">"Fleur" (short story)</a>, a short story by Louise Erdrich</li></ul>
-<h2><span class="mw-headline" id="Music">Music</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fleur&amp;action=edit&amp;section=1" title="Edit section: Music">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
-<ul><li><a href="/wiki/Fl%C3%ABur" title="Flëur">Flëur</a>, a Ukrainian music band</li>
-<li><a href="/wiki/Fleurs_(Franco_Battiato_album)" title="Fleurs (Franco Battiato album)"><i>Fleurs</i> (Franco Battiato album)</a>, 1999</li>
-<li><a href="/wiki/Fleurs_(Former_Ghosts_album)" title="Fleurs (Former Ghosts album)"><i>Fleurs</i> (Former Ghosts album)</a>, 2009</li>
-<li><i>Fleurs 2</i>, a 2008 album by <a href="/wiki/Franco_Battiato" title="Franco Battiato">Franco Battiato</a></li>
-<li><i>Fleurs 3</i>, a 2002 album by <a href="/wiki/Franco_Battiato" title="Franco Battiato">Franco Battiato</a></li>
-<li><i>Les Fleur(s)</i>, a song by <a href="/wiki/Minnie_Riperton" title="Minnie Riperton">Minnie Riperton</a> from the album <a href="/wiki/Come_to_My_Garden" title="Come to My Garden">Come to My Garden</a>, 1970</li>
-<li><i>Les Fleurs</i>, a 1983 album by <a href="/wiki/Ramsey_Lewis" title="Ramsey Lewis">Ramsey Lewis</a></li></ul>
+<li><a href="/wiki/Fleur_(I_Love_Mochi)" class="mw-redirect" title="Fleur (short story)">"Fleur" (short story)</a>, a short story by Louise Erdrich</li></ul>
 <h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fleur&amp;action=edit&amp;section=2" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul><li><a href="/wiki/Fleur-de-lis_(disambiguation)" class="mw-disambig" title="Fleur-de-lis (disambiguation)">Fleur-de-lis (disambiguation)</a></li></ul>
 <style data-mw-deduplicate="TemplateStyles:r889293728">.mw-parser-output table.dmbox{clear:both;margin:0.9em 1em;border-top:1px solid #ccc;border-bottom:1px solid #ccc;background-color:transparent}</style>
